@@ -7,9 +7,9 @@ Reorganized things, clutter free, (still a lot of plugins, but it works nicely)
 
 Features:
 
-    1. nvim-lsp,
-    1. nvim-cmp,
-    1. idfk
+1. nvim-lsp,
+1. nvim-cmp,
+1. idfk
 
 lsp and cmp are really the exciting bits, I loved coc but come on, I'm using neovim, I can go so much faster :D
 
